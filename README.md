@@ -41,15 +41,21 @@
 
 #### CIRCUIT DIAGRAM:
 
+<img width="1366" height="768" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/9f75cae7-66b4-4e61-a803-a8d4eae2cf20" />
+zaw<img width="1366" height="768" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/4a123dba-185c-4ead-842d-f8f63d211dea" />
 
 #### Tabulation:1
 
 	
 ## Cross connection (XOR) : 
+<img width="1366" height="768" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/f0aa0715-439e-46eb-9ab7-f91f85709aab" />
+<img width="1366" height="768" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/adf24f92-204c-4c6a-ac53-364398a9bfef" />
+
 
 #### CIRCUIT DIAGRAM:
 
 #### Tabulation:2
+<img width="1280" height="1113" alt="image" src="https://github.com/user-attachments/assets/98077eac-fd70-4bea-875e-ba19fc754bf3" />
 
 
 ## RESULT:
