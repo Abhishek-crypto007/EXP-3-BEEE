@@ -45,6 +45,7 @@
 zaw<img width="1366" height="768" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/4a123dba-185c-4ead-842d-f8f63d211dea" />
 
 #### Tabulation:1
+<img width="1057" height="1280" alt="image" src="https://github.com/user-attachments/assets/e97d6d85-b4f4-48bd-920b-043b68bca742" />
 
 	
 ## Cross connection (XOR) : 
