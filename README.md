@@ -46,9 +46,8 @@ zaw<img width="1366" height="768" alt="Screenshot (164)" src="https://github.com
 
 #### Tabulation:1
 
-![photo_2026-02-07_10-42-13](https://github.com/user-attachments/assets/b5418a7f-6b8c-448c-8471-cb26ab67b3eb)
+![photo_2026-02-07_10-42-13](https://github.com/user-attachments/assets/f0e7d4da-54f9-49a5-b7d2-7f8bca90abb2)
 
-	
 ## Cross connection (XOR) : 
 <img width="1366" height="768" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/f0aa0715-439e-46eb-9ab7-f91f85709aab" />
 <img width="1366" height="768" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/adf24f92-204c-4c6a-ac53-364398a9bfef" />
